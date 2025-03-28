@@ -30,7 +30,7 @@ A complete data engineering and analytics pipeline built on Microsoft Azure to a
 
 > A high-level overview of the full data flow architecture:
 
-![Workflow](./Workflow - Microsoft Azure.jpg)
+![Workflow](./Workflow%20-%20Microsoft%20Azure.jpg)
 
 ---
 
@@ -38,7 +38,7 @@ A complete data engineering and analytics pipeline built on Microsoft Azure to a
 
 - Applied **Star Schema** design using **Azure Synapse**, separating fact and dimension tables to support analytical queries and Power BI performance.
 
-![Star Schema](./Star Schema.jpeg)
+![Star Schema](./Star%20Schema.jpeg)
 
 ---
 
@@ -53,6 +53,24 @@ A complete data engineering and analytics pipeline built on Microsoft Azure to a
 
 > Screenshot of the Power BI dashboard:
 
-![Power BI Dashboard](./E-Commerce Dashboard.jpg)
+![Power BI Dashboard](./E-Commerce%20Dashboard.jpg)
 
 ---
+📊 **How to Explore the Dashboard**  
+🖥️ Download & Open the pbix file using Power BI Desktop
+
+---
+
+### 🔍 Explore the interactive visuals and insights
+
+- 🔑 **Key Insights** 🧮 1.14M ratings analyzed across 35.45K products and 8,019 brands  
+- 💳 Verified purchases represent ~88% of total transactions  
+- 🕒 Most reviews occurred post-2015, peaking between 2016–2018  
+- ⭐ Rating 5 dominated (0.79M reviews), with verified reviews receiving more upvotes  
+- ❗ Outliers found in brand naming, average prices, and review counts  
+- 💗 Ratings follow a skewed distribution; top 10 brands account for a large majority of 5-star reviews  
+
+---
+
+📄 **License**  
+Licensed under the Apache 2.0 License.
